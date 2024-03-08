@@ -19,7 +19,10 @@
 No installation required. Simply access the tool through your web browser.
 
 ## Contributing
-Contributions are welcome! Fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss your ideas.
+Contributions are welcome! Fork the repository.
+
+**Disclaimer:** This code is provided as is. While contributions are encouraged, please note that the authors provide no warranties or guarantees regarding its functionality or suitability for any specific purpose.
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
